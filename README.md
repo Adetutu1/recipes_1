@@ -7,3 +7,7 @@ This repo is to create a project about guacamole
 - get coriander
 - get tomato 
 - get salt
+
+## Method 
+- peel the avocado 
+- crush avocado
