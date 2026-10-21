@@ -12,3 +12,5 @@ This repo is to create a project about guacamole
 - peel the avocado 
 - crush avocado
 - cut the tomato on squares
+
+### CRush
