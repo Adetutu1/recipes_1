@@ -11,3 +11,4 @@ This repo is to create a project about guacamole
 ## Method 
 - peel the avocado 
 - crush avocado
+- cut the tomato on squares
