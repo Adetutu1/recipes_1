@@ -5,3 +5,4 @@ This repo is to create a project about guacamole
 ## instructions
 -get avocado
 get coriander
+get salt
